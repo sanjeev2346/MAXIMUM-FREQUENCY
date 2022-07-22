@@ -1,0 +1,17 @@
+//Defene the function 
+class solution():
+    def solve(self,n,y,a);
+        count=[]
+        for i in a:
+             x=a.count(i)
+             count.appent(x)
+         return max(count)
+         
+//user defined function      
+ if__name__=="__main__":
+     for _ in range(int(input())):
+     n,y=map(int,input().split())
+     a=[int(i) for i in input().split()]
+     obj = solution()
+  //function call
+     print(obj.solve(n,y,A))
